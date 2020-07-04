@@ -1,16 +1,11 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * O programa realiza o cálculo do IR a ser pago por uma pessoa,
+ * considerando sua faixa salarial.
  */
 package Lista2;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Luiz Carlos
- */
 public class ImpostoDeRenda {
     public static void main(String[] args){
         Scanner read = new Scanner (System.in);       
